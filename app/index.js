@@ -1,0 +1,1 @@
+console.log('Hello world form webpack  do you update auto');
